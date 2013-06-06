@@ -1,0 +1,28 @@
+﻿.labels
+{
+    float: left;
+    width: 150px;
+    font-weight: bold;
+}
+
+#nav
+{
+    color: black;
+    text-align: center;
+}
+
+#nav a
+{
+    text-decoration: none;
+    color: teal;
+}
+
+#nav a:hover
+{
+    color: orange;
+}
+
+.button
+{
+margin-left: 100px;
+}
